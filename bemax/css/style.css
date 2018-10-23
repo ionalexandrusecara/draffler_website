@@ -7,7 +7,7 @@
  Author URI: http://themeforest.net/user/ui-themez
  Version: 1.0
 
- Main Color   : #F24259
+ Main Color   : #00a6eb
  main Font    : Poppins
  Heading Font : Raleway
 
@@ -96,7 +96,7 @@ span, a, a:hover {
   content: '';
   width: 1px;
   height: 35px;
-  background: #F24259;
+  background: #00a6eb;
   position: absolute;
   left: -1px;
   bottom: 0;
@@ -234,7 +234,7 @@ span, a, a:hover {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #F24259;
+  background: #00a6eb;
 }
 
 /* ----------------------------------------------------------------
@@ -265,7 +265,7 @@ span, a, a:hover {
   transition: all .5s;
 }
 .navbar .navbar-nav .active {
-  color: #F24259 !important;
+  color: #00a6eb !important;
 }
 
 .nav-scroll {
@@ -327,7 +327,7 @@ span, a, a:hover {
           animation-delay: .6s;
 }
 .header .caption h1 b {
-  color: #F24259;
+  color: #00a6eb;
 }
 .header .caption p {
   font-size: 16px;
@@ -378,8 +378,8 @@ span, a, a:hover {
   z-index: 2;
 }
 .header .caption .butn-bg {
-  background: #F24259;
-  border-color: #F24259;
+  background: #00a6eb;
+  border-color: #00a6eb;
 }
 .header .arrow {
   position: absolute;
@@ -499,7 +499,7 @@ span, a, a:hover {
 .hero .item .icon {
   font-size: 50px;
   margin-bottom: 15px;
-  color: #F24259;
+  color: #00a6eb;
 }
 .hero .item h6 {
   margin-bottom: 15px;
@@ -513,7 +513,7 @@ span, a, a:hover {
   height: 50px;
   line-height: 50px;
   text-align: center;
-  background: #F24259;
+  background: #00a6eb;
   border-radius: 50%;
   color: #fff;
   font-size: 25px;
@@ -549,7 +549,7 @@ span, a, a:hover {
   left: 0;
   top: 0;
   height: 100%;
-  background: #F24259;
+  background: #00a6eb;
   width: 10%;
   border-radius: 10px;
   -webkit-transition: all 1s;
@@ -585,7 +585,7 @@ span, a, a:hover {
   font-style: italic;
 }
 .quote h5 {
-  color: #F24259;
+  color: #00a6eb;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
@@ -619,8 +619,8 @@ span, a, a:hover {
   margin: 0;
 }
 .portfolio .filtering .active {
-  border-color: #F24259;
-  color: #F24259;
+  border-color: #00a6eb;
+  color: #00a6eb;
 }
 .portfolio .items {
   margin-top: 30px;
@@ -709,7 +709,7 @@ span, a, a:hover {
 .services .item .icon {
   font-size: 30px;
   margin-bottom: 15px;
-  color: #F24259;
+  color: #00a6eb;
 }
 .services .item h6 {
   margin-bottom: 15px;
@@ -738,7 +738,7 @@ span, a, a:hover {
   content: '';
   width: 1px;
   height: 100%;
-  background: #F24259;
+  background: #00a6eb;
   position: absolute;
   right: 1px;
   top: 0;
@@ -763,7 +763,7 @@ span, a, a:hover {
 }
 .serv-tabs .tabs-icon .item .icon {
   font-size: 30px;
-  color: #F24259;
+  color: #00a6eb;
   margin-bottom: 15px;
 }
 .serv-tabs .tabs-icon .item h6 {
@@ -903,8 +903,8 @@ span, a, a:hover {
   top: 0;
 }
 .price .order a {
-  background: #F24259;
-  border: 1px solid #F24259;
+  background: #00a6eb;
+  border: 1px solid #00a6eb;
   color: #fff;
   padding: 10px 30px;
   margin-top: 15px;
@@ -934,7 +934,7 @@ span, a, a:hover {
   transition: width 0.3s ease;
 }
 .price .order a:hover span {
-  color: #F24259;
+  color: #00a6eb;
 }
 .price .active {
   -webkit-box-shadow: 0px 5px 40px 0px rgba(0, 0, 0, 0.1);
@@ -959,7 +959,7 @@ span, a, a:hover {
   margin: 0 auto 15px;
 }
 .testimonails h5 {
-  color: #F24259;
+  color: #00a6eb;
   font-size: 16px;
   font-weight: 600;
   margin: 0 0 5px;
@@ -1016,7 +1016,7 @@ span, a, a:hover {
   background: #fff;
 }
 .blog .item .content .tag {
-  color: #F24259;
+  color: #00a6eb;
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -1117,8 +1117,8 @@ span, a, a:hover {
   transition: all .5s;
 }
 .blogs .posts .post .content .butn:hover {
-  background: #F24259;
-  border-color: #F24259;
+  background: #00a6eb;
+  border-color: #00a6eb;
   color: #fff;
 }
 .blogs .posts .post .share-post {
@@ -1187,8 +1187,8 @@ span, a, a:hover {
   max-width: 100%;
 }
 .blogs .posts .comment-form .form button[type='submit'] {
-  background: #F24259;
-  border: 1px solid #F24259;
+  background: #00a6eb;
+  border: 1px solid #00a6eb;
   color: #fff;
   padding: 10px 30px;
   margin-top: 15px;
@@ -1219,7 +1219,7 @@ span, a, a:hover {
   transition: width 0.3s ease;
 }
 .blogs .posts .comment-form .form button[type='submit']:hover span {
-  color: #F24259;
+  color: #00a6eb;
 }
 .blogs .posts .pagination {
   display: block;
@@ -1368,8 +1368,8 @@ span, a, a:hover {
   max-width: 100%;
 }
 .contact .contact-form button[type='submit'] {
-  background: #F24259;
-  border: 1px solid #F24259;
+  background: #00a6eb;
+  border: 1px solid #00a6eb;
   color: #fff;
   padding: 10px 30px;
   margin-top: 15px;
@@ -1400,7 +1400,7 @@ span, a, a:hover {
   transition: width 0.3s ease;
 }
 .contact .contact-form button[type='submit']:hover span {
-  color: #F24259;
+  color: #00a6eb;
 }
 
 /* ----------------------------------------------------------------
@@ -1457,7 +1457,7 @@ footer p {
     color: #fff !important;
   }
   .nav-scroll .navbar-collapse .active {
-    color: #F24259 !important;
+    color: #00a6eb !important;
   }
 
   .header .caption h2 {
